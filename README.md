@@ -1,7 +1,7 @@
 <h1 align="center">Cássio Moquedace</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=2E86AB&center=true&vCenter=true&width=620&lines=Soil+Science+%C2%B7+Machine+Learning+%C2%B7+Remote+Sensing;Artificial+Intelligence+%C2%B7+Digital+Soil+Mapping;Pedometrics+%C2%B7+Spatial+Modeling;Reproducible+Research+with+R" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=2E86AB&center=true&vCenter=true&width=620&lines=Soil+Science+%C2%B7+Machine+Learning+%C2%B7+Remote+Sensing;Artificial+Intelligence+%C2%B7+Digital+Soil+Mapping;Pedometrics+%C2%B7+Spatial+Modeling" alt="Typing SVG" />
 </p>
 
 <p align="center">
