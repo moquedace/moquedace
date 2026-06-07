@@ -18,6 +18,9 @@
   <a href="http://lattes.cnpq.br/4885480549870479">
     <img src="https://img.shields.io/badge/Lattes-CV-1f6feb">
   </a>
+  <a href="https://bv.fapesp.br/pt/pesquisador/740668/cassio-marques-moquedace-dos-santos/">
+    <img src="https://img.shields.io/badge/BV%20FAPESP-Profile-8B1E3F">
+  </a>
 </p>
 
 ---
