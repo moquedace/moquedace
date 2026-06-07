@@ -1,7 +1,7 @@
 <h1 align="center">Cássio Moquedace</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=2E86AB&center=true&vCenter=true&width=620&lines=Soil+Science+%C2%B7+Machine+Learning+%C2%B7+Remote+Sensing;Artificial+Intelligence+%C2%B7+Digital+Soil+Mapping;Pedometrics+%C2%B7+Spatial+Modeling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=2E86AB&center=true&vCenter=true&width=620&lines=Soil+Science+%C2%B7+Machine+Learning+%C2%B7+Remote+Sensing;Artificial+Intelligence+%C2%B7+Digital+Soil+Mapping;Pedometrics+%C2%B7+Spatial+Modeling;Reproducible+Research+with+R" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -63,9 +63,11 @@ and understanding soil carbon dynamics across diverse environments and scales.
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=moquedace&show_icons=true&hide_border=true&title_color=2E86AB&icon_color=2E86AB&text_color=444444&bg_color=ffffff&count_private=true&include_all_commits=true" />
-  &nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moquedace&layout=compact&hide_border=true&title_color=2E86AB&text_color=444444&bg_color=ffffff" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=moquedace&theme=minimal&hide_border=true&color=2E86AB&line=2E86AB&point=2E86AB&area=true&area_color=2E86AB&bg_color=ffffff" />
+</p>
+
+<p align="center">
+  <img height="140" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moquedace&layout=compact&hide_border=true&title_color=2E86AB&text_color=444444&bg_color=ffffff" />
 </p>
 
 ---
