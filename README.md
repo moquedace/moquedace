@@ -1,7 +1,7 @@
 <h1 align="center">Cássio Moquedace</h1>
 
 <p align="center">
-  Machine learning and AI for soil carbon, remote sensing and digital soil mapping
+  Machine learning and artificial intelligence for soil carbon, remote sensing and digital soil mapping
 </p>
 
 <p align="center">
