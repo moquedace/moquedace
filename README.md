@@ -66,10 +66,6 @@ and understanding soil carbon dynamics across diverse environments and scales.
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=moquedace&theme=minimal&hide_border=true&color=2E86AB&line=2E86AB&point=2E86AB&area=true&area_color=2E86AB&bg_color=ffffff" />
 </p>
 
-<p align="center">
-  <img height="140" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moquedace&layout=compact&hide_border=true&title_color=2E86AB&text_color=444444&bg_color=ffffff" />
-</p>
-
 ---
 
 <p align="center">
