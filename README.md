@@ -42,7 +42,7 @@ and understanding soil carbon dynamics across diverse environments and scales.
 | [`ro_soil_carbon_stock`](https://github.com/moquedace/ro_soil_carbon_stock) | High-resolution soil carbon stock mapping in the western Amazon |
 | [`global_soil_respiration`](https://github.com/moquedace/global_soil_respiration) | Soil texture and global soil respiration modeling |
 | [`soc_stock_antarctica`](https://github.com/moquedace/soc_stock_antarctica) | Soil organic carbon stock mapping in Antarctica |
-| [`r-cnn-soil-mapping`](https://github.com/moquedace/r-cnn-soil-mapping) | CNN/deep learning approach for digital soil mapping |
+| [`soilcnn`](https://github.com/moquedace/soilcnn) | CNNs for digital soil mapping in R: spatial CV, seed ensembles, conformal intervals and area of applicability |
 | [`funcs`](https://github.com/moquedace/funcs) | R functions for spatial modeling, raster workflows and prediction pipelines |
 
 ### Tools & Stack
@@ -58,12 +58,6 @@ and understanding soil carbon dynamics across diverse environments and scales.
 
 <p>
   <code>machine learning</code> · <code>deep learning</code> · <code>pedometrics</code> · <code>digital soil mapping</code> · <code>remote sensing</code> · <code>spatial modeling</code> · <code>soil carbon</code>
-</p>
-
----
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=moquedace&theme=minimal&hide_border=true&color=2E86AB&line=2E86AB&point=2E86AB&area=true&area_color=2E86AB&bg_color=ffffff" />
 </p>
 
 ---
