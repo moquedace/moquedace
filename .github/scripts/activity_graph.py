@@ -57,6 +57,8 @@ def fetch_days():
 def nice_max(v):
     # y-axis ceiling = 4 grid steps of 1, 2 or 5 x 10^k, so every label is an integer
     raw = max(1, -(-v // 4))
+    if raw <= 5:
+        return 4 * raw
     k = 10 ** (len(str(raw)) - 1)
     for m in (1, 2, 5, 10):
         if raw <= m * k:
