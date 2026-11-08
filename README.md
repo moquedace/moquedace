@@ -5,17 +5,17 @@
 </p>
 
 <p align="center">
-  <a href="https://moquedace.github.io"><img src="https://img.shields.io/badge/Website-moquedace.github.io-2E86AB?style=flat-square&logo=githubpages&logoColor=white"></a>&nbsp;
-  <a href="https://orcid.org/0000-0002-7673-4524"><img src="https://img.shields.io/badge/ORCID-0000--0002--7673--4524-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>&nbsp;
-  <a href="https://scholar.google.com/citations?user=LlwkuGwAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white"></a>&nbsp;
-  <a href="https://lattes.cnpq.br/4885480549870479"><img src="https://img.shields.io/badge/Lattes-CV-1f6feb?style=flat-square"></a>&nbsp;
-  <a href="https://bv.fapesp.br/pt/pesquisador/740668/cassio-marques-moquedace-dos-santos/"><img src="https://img.shields.io/badge/BV%20FAPESP-Profile-8B1E3F?style=flat-square"></a>&nbsp;
-  <a href="https://twitter.com/CMoquedace"><img src="https://img.shields.io/badge/X-%40CMoquedace-000000?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="https://moquedace.github.io"><img src="assets/badges/website.svg"></a>&nbsp;
+  <a href="https://orcid.org/0000-0002-7673-4524"><img src="assets/badges/orcid.svg"></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=LlwkuGwAAAAJ"><img src="assets/badges/google_scholar.svg"></a>&nbsp;
+  <a href="https://lattes.cnpq.br/4885480549870479"><img src="assets/badges/lattes.svg"></a>&nbsp;
+  <a href="https://bv.fapesp.br/pt/pesquisador/740668/cassio-marques-moquedace-dos-santos/"><img src="assets/badges/bv_fapesp.svg"></a>&nbsp;
+  <a href="https://twitter.com/CMoquedace"><img src="assets/badges/x.svg"></a>
   <br><br>
-  <img src="https://img.shields.io/badge/Postdoc-ESALQ%2FUSP-003087?style=flat-square">&nbsp;
-  <img src="https://img.shields.io/badge/Ph.D.-Soil%20Science%20%C2%B7%20UFV%202025-5C4033?style=flat-square">&nbsp;
-  <img src="https://img.shields.io/badge/FAPESP-2025%2F00139--6-1F5F4A?style=flat-square">&nbsp;
-  <img src="https://img.shields.io/badge/Brazil-UTC--03:00-009C3B?style=flat-square">
+  <img src="assets/badges/postdoc.svg">&nbsp;
+  <img src="assets/badges/phd.svg">&nbsp;
+  <img src="assets/badges/fapesp.svg">&nbsp;
+  <img src="assets/badges/brazil.svg">
 </p>
 
 ---
@@ -56,16 +56,22 @@ and understanding soil carbon dynamics across diverse environments and scales.
 ### Tools & Stack
 
 <p>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/torch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="assets/badges/r.svg">
+  <img src="assets/badges/python.svg">
+  <img src="assets/badges/torch.svg">
+  <img src="assets/badges/google_earth_engine.svg">
+  <img src="assets/badges/qgis.svg">
+  <img src="assets/badges/git.svg">
 </p>
 
 <p>
   <code>machine learning</code> · <code>deep learning</code> · <code>pedometrics</code> · <code>digital soil mapping</code> · <code>remote sensing</code> · <code>spatial modeling</code> · <code>soil carbon</code>
+</p>
+
+---
+
+<p align="center">
+  <img width="95%" src="assets/activity_graph.svg" alt="Contribution activity graph" />
 </p>
 
 ---
